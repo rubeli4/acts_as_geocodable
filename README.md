@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update TFLite Docs images (#8605)
