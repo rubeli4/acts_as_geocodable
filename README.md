@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+YOLOv8 INT8 TFLite Inference Example (#7317)
