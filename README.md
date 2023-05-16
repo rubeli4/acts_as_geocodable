@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
