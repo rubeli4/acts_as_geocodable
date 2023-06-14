@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
