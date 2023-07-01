@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
