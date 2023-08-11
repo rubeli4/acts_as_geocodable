@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Merge pull request #22 from SkalskiP/patch-1
