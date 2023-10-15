@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
