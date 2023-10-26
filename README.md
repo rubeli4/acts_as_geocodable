@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
