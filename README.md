@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix RTDETR generate anchor grid out of boundary (#7247)
