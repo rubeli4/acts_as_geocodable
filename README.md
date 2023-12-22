@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
