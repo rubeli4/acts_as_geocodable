@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+New test for labels and crops (#8861)
