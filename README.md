@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update fraction arg to employ a random selection (#8234)
