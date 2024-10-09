@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
