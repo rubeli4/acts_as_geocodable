@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update neural-magic.md (#7347)
